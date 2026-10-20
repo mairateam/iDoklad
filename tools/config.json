@@ -1,0 +1,4889 @@
+{
+  "categories": [
+    {
+      "id": "online",
+      "name": "Online fakturace a programy",
+      "desc": "Zájem o nástroj: faktura online, fakturační program, aplikace na faktury"
+    },
+    {
+      "id": "vystaveni",
+      "name": "Vystavení faktury",
+      "desc": "Chce teď vystavit fakturu: vystavení, vytvoření, jak vystavit"
+    },
+    {
+      "id": "vzory",
+      "name": "Vzory a typy faktur",
+      "desc": "Šablony a konkrétní typy: vzor, zálohová faktura, ISDOC, e-faktura"
+    }
+  ],
+  "countries": {
+    "cz": {
+      "label": "Česko",
+      "geo": "2203",
+      "language": "1021",
+      "customer_id": "6992046034",
+      "currency": "Kč",
+      "brands": [
+        {
+          "name": "iDoklad",
+          "color": "#4B3BC9",
+          "client": true,
+          "keywords": [
+            "idoklad",
+            "idoklad cz",
+            "idoklad přihlášení",
+            "idoklad cena",
+            "idoklad faktura",
+            "idoklad kontakt",
+            "www idoklad cz",
+            "app idoklad"
+          ]
+        },
+        {
+          "name": "Fakturoid",
+          "color": "#F2C200",
+          "keywords": [
+            "fakturoid",
+            "fakturoid cz",
+            "fakturoid cena",
+            "www fakturoid",
+            "app fakturoid",
+            "fakturoid tarify",
+            "www fakturoid cz"
+          ]
+        },
+        {
+          "name": "FakturaOnline",
+          "color": "#F28A00",
+          "keywords": [
+            "fakturaonline",
+            "fakturaonline cz",
+            "fakturaonline cz přihlášení"
+          ]
+        },
+        {
+          "name": "Vyfakturuj",
+          "color": "#4A9FF5",
+          "keywords": [
+            "vyfakturuj",
+            "vyfakturuj cz",
+            "vyfakturuj tarify",
+            "www vyfakturuj cz"
+          ]
+        },
+        {
+          "name": "mPohoda",
+          "color": "#9AA0AB",
+          "keywords": [
+            "mpohoda",
+            "mpohoda cz",
+            "m pohoda",
+            "mpohoda cena"
+          ]
+        },
+        {
+          "name": "SuperFaktura",
+          "color": "#7F98C6",
+          "keywords": [
+            "superfaktura",
+            "superfaktury",
+            "superfaktura cz",
+            "superfaktura zdarma"
+          ]
+        },
+        {
+          "name": "Eurofaktura",
+          "color": "#D3D9E4",
+          "keywords": [
+            "eurofaktura",
+            "eurofaktura cz"
+          ]
+        }
+      ],
+      "vertical": {
+        "online": [
+          "faktura online",
+          "faktury online",
+          "faktura",
+          "faktury",
+          "faktura online zdarma",
+          "faktura zdarma",
+          "fakturace",
+          "fakturovač",
+          "program na faktury zdarma",
+          "faktura online free",
+          "faktura cz",
+          "fakturační program zdarma",
+          "program na faktury",
+          "aplikace na faktury",
+          "aplikace na faktury zdarma",
+          "faktury online free",
+          "generator faktur",
+          "generátor faktur",
+          "faktury zadarmo",
+          "faktura online zadarmo",
+          "faktura zdarma online",
+          "fakturace online zdarma",
+          "fakturační systém",
+          "fakturační systém zdarma",
+          "faktura bez ičo",
+          "fakturacni program",
+          "fakturovac",
+          "fakturace zdarma program",
+          "fakturační software",
+          "faktura online za darmo",
+          "faktura online zdarma bez registrace",
+          "program faktury zdarma",
+          "online faktury cz",
+          "fakturační program pro živnostníky",
+          "fakturační aplikace",
+          "generování faktur",
+          "faktura bez živnosti",
+          "faktur",
+          "faktura osvc",
+          "faktury program",
+          "online faktura free",
+          "online faktura zadarmo",
+          "program faktury",
+          "program na fakturaci zdarma",
+          "fakturu online",
+          "nejlepší fakturační program",
+          "fakturační program online",
+          "fakturační software zdarma",
+          "vlastní faktura",
+          "dodavatelska faktura",
+          "faktur online",
+          "faktura snadno",
+          "fakturace online zdarma cz",
+          "fakturacia",
+          "fakturacni program zdarma",
+          "faktury online za darmo",
+          "faktury program zdarma",
+          "generator faktur online",
+          "program pro fakturaci",
+          "fakturacni system",
+          "faktura za hotové",
+          "fakturovač zdarma",
+          "faktury vydané",
+          "jednoduchá faktura",
+          "online fakturácia",
+          "aplikace faktury",
+          "faktura app",
+          "faktura download free",
+          "faktura forma",
+          "faktura free",
+          "faktura na fyzickou osobu",
+          "faktura online bez registrace",
+          "faktura sk",
+          "fakturu",
+          "faktury free",
+          "faktury on line",
+          "online faktur",
+          "program fakturace",
+          "program fakturace zdarma",
+          "simple faktura",
+          "software na faktury",
+          "fakturace v cizí měně",
+          "jednoduchý fakturační program",
+          "fakturace bez živnostenského listu",
+          "fakturační program pro mac",
+          "fakturační programy",
+          "automatická fakturace",
+          "fakturace osvč",
+          "hromadná fakturace",
+          "osvč fakturace",
+          "aplikace faktury zdarma",
+          "edi fakturace",
+          "faktura bez dph",
+          "faktura do 10000",
+          "faktura on line",
+          "faktura online generator",
+          "fakturace bez dph",
+          "fakturace dph",
+          "fakturace free",
+          "fakturace s dph",
+          "fakturace zdarma online",
+          "fakturaci",
+          "faktury on line zdarma",
+          "program pro fakturaci zdarma",
+          "software fakturace"
+        ],
+        "vystaveni": [
+          "jak vystavit fakturu",
+          "vytvoření faktury",
+          "jak vytvořit fakturu",
+          "vystaveni faktury",
+          "vytvoření faktury zdarma",
+          "vytvoření faktury online",
+          "jak vytvořit fakturu zdarma",
+          "tvorba faktur",
+          "vystavení faktury online zdarma",
+          "vystaveni faktury online",
+          "vystaveni faktury zdarma",
+          "vytvoreni faktury",
+          "vytvorit fakturu zdarma",
+          "vystavovani faktur",
+          "vystavit fakturu online",
+          "vytvořit fakturu zdarma",
+          "jak udelat fakturu",
+          "jak vytvorit fakturu",
+          "vytvorit fakturu",
+          "vytváření faktur zdarma",
+          "tvorba faktur online",
+          "vytvorit fakturu online",
+          "program na vystavení faktur zdarma",
+          "tvorba faktur zdarma",
+          "vystaveni faktur",
+          "vystavení faktury bez ičo",
+          "vytvoření faktury online zdarma",
+          "jak udelat fakturu zdarma",
+          "tvorba faktur online zdarma",
+          "vytváření faktur",
+          "vystavování faktur zdarma",
+          "vystav fakturu",
+          "jak poslat fakturu",
+          "vytvořit fakturu online zdarma",
+          "jak napsat fakturu",
+          "jak vystavit fakturu zdarma",
+          "vytvor fakturu",
+          "vytvoreni faktury zdarma",
+          "vytvorenie faktury online zadarmo",
+          "program na vytváření faktur",
+          "program na vytvoření faktury",
+          "vystavování faktur online",
+          "vystavení faktury fyzickou osobou",
+          "jak fakturovat",
+          "jak poslat fakturu emailem",
+          "jak se vystavuje faktura",
+          "program na tvorbu faktur",
+          "vystavit fakturu online zdarma",
+          "jak správně vystavit fakturu",
+          "program na vystavování faktur",
+          "jak má vypadat faktura",
+          "jak vystavit fakturu bez ičo",
+          "jak delat faktury",
+          "jak se dela faktura",
+          "napsat fakturu",
+          "online tvorba faktur",
+          "tvorba faktur program",
+          "tvorba faktury zadarmo",
+          "může fyzická osoba vystavit fakturu",
+          "můžu vystavit fakturu bez ičo",
+          "vystavení faktury zpětně",
+          "osvč vystavení faktury",
+          "faktura vystavená",
+          "jak vypadá faktura",
+          "jak vystavit fakturu jako osvč",
+          "ako fakturovat zivnostnik",
+          "fakturovat",
+          "jak na faktury",
+          "jak vyplnit fakturu",
+          "tisk faktury",
+          "vytvorenie faktury",
+          "náležitosti faktury v cizí měně",
+          "zákonné náležitosti faktury",
+          "dodatečné vystavení faktury",
+          "vystavení faktury bez živnostenského listu",
+          "zpětné vystavení faktury",
+          "náležitost faktury",
+          "náležitosti faktury",
+          "pozdě vystavená faktura",
+          "vystavení faktury bez ič",
+          "vystavení faktury na přelomu roku",
+          "datum vystavení faktury",
+          "duzp vystavení faktury",
+          "faktura vystavená v lednu duzp prosinec",
+          "program na psaní faktur zdarma",
+          "splatnost faktury od vystavení",
+          "vystavená faktura",
+          "vystavené faktury",
+          "vystavení faktury dph",
+          "základy fakturace",
+          "do kdy vystavit fakturu",
+          "povinnost vystavit fakturu",
+          "program na tvorbu faktur zdarma",
+          "program tvorba faktur zdarma",
+          "tisk faktur zdarma",
+          "vystavena faktura"
+        ],
+        "vzory": [
+          "faktura vzor",
+          "faktura vzor ke stažení word",
+          "vzor faktury",
+          "faktura vzor excel",
+          "efaktury",
+          "faktura vzor ke stažení",
+          "e faktura",
+          "isdoc faktura",
+          "faktura vzor ke stažení word zdarma",
+          "faktura šablona",
+          "faktura pdf",
+          "faktury vzor",
+          "vzor faktury pro neplátce dph",
+          "faktura zdarma ke stažení",
+          "zálohová faktura",
+          "zálohová faktura vzor",
+          "e faktury",
+          "e faktura zdarma",
+          "jak vytvořit fakturu s qr kódem",
+          "faktura sablona",
+          "faktura vzor pdf",
+          "faktura vzor excel zdarma",
+          "faktura isdoc",
+          "vystavení zálohové faktury",
+          "sablony faktur",
+          "vystavení faktury pro neplátce dph",
+          "vzor faktury ke stažení",
+          "faktura pro neplátce dph",
+          "jednoduchá faktura vzor",
+          "program na faktury pro neplátce dph",
+          "faktura online pdf",
+          "formulář faktury v excelu",
+          "faktura vzor word",
+          "faktura vzor ke stažení excel",
+          "faktura vzor ke stažení zdarma",
+          "formulář faktura",
+          "formulář faktura zdarma",
+          "program na faktury zdarma ke stažení",
+          "faktura s qr kódem zdarma",
+          "vzor faktury osvč",
+          "šablona na fakturu",
+          "faktura s qr kodem",
+          "faktura zdarma pdf",
+          "online faktura pdf",
+          "zalohova faktura online",
+          "faktura excel vzor",
+          "faktura excel",
+          "prázdná faktura ke stažení",
+          "faktura ke stažení zdarma",
+          "faktura online zdarma ke stažení",
+          "jak vytvořit qr kód na fakturu",
+          "zálohová faktura online zdarma",
+          "faktura šablona word",
+          "faktura format",
+          "faktura zdarma vzor",
+          "faktury pdf",
+          "formular faktura",
+          "vzor faktury zdarma",
+          "formulář na fakturu zdarma",
+          "faktura formulář ke stažení zdarma",
+          "formulář faktury k vyplnění",
+          "faktura neplátce dph vzor ke stažení",
+          "jednoduchá faktura ke stažení",
+          "předloha faktury pro neplátce dph",
+          "vytvoření faktury v excelu",
+          "vzor faktury ke stažení zdarma",
+          "zálohová faktura online",
+          "zálohová faktura vzor word",
+          "elektronická faktura",
+          "elektronická faktura online zdarma",
+          "faktura neplátce dph",
+          "faktura osvč vzor",
+          "faktury šablony",
+          "jak fakturovat neplátci dph",
+          "jak vystavit fakturu neplátci dph",
+          "jak vystavit fakturu pro neplátce dph",
+          "předloha faktury",
+          "vzor faktura neplátce dph",
+          "šablona faktura",
+          "šablona faktura excel",
+          "efaktur",
+          "excel faktura vzor",
+          "faktura online vzor",
+          "faktura online zdarma isdoc",
+          "faktura pdf cz",
+          "faktura pdf zdarma",
+          "faktura zdarma excel",
+          "faktury eu",
+          "format faktury",
+          "formular faktury",
+          "jak vystavit fakturu za praci",
+          "mustr faktura",
+          "sablona faktura",
+          "tiskopis faktura pdf",
+          "vzor faktura zdarma",
+          "vzor faktury ve wordu",
+          "zalohova faktura",
+          "vzor faktury neplátce dph excel",
+          "faktura formular",
+          "faktura word vzor",
+          "vzor faktura excel",
+          "vzor faktury v excelu",
+          "elektronická faktura zdarma",
+          "faktura přenesená daňová povinnost vzor",
+          "fakturační program ke stažení zdarma",
+          "formulář faktura ke stažení zdarma",
+          "formulář faktury ke stažení zdarma",
+          "kniha přijatých faktur ke stažení",
+          "faktura šablona ke stažení",
+          "formulář faktura neplátce dph",
+          "formulář faktury pro neplátce dph",
+          "neplátce faktura vzor ke stažení word",
+          "vzor faktury neplátce dph ke stažení",
+          "faktura do zahraničí vzor",
+          "faktura tiskopis k vyplnění",
+          "faktura vzor k vyplnění",
+          "fakturace neplátce dph plátci dph",
+          "fakturační adresa",
+          "formulář faktura excel",
+          "formulář faktury online",
+          "formulář na fakturu",
+          "kniha přijatých faktur excel",
+          "tiskopis faktury k vyplnění",
+          "vystavení faktury neplátce dph",
+          "vzor faktury zdarma ke stažení",
+          "vzor zálohové faktury",
+          "zálohová faktura vzor excel",
+          "faktura do německa vzor",
+          "faktura fyzická osoba vzor",
+          "faktura neplátce dph vzor",
+          "faktura od neplátce dph",
+          "faktura pro neplátce dph vzor",
+          "faktura předloha",
+          "faktura vydaná vzor",
+          "faktura vystavená vzor",
+          "faktura vzor plátce dph excel",
+          "faktura za hotové vzor",
+          "faktura za práci vzor",
+          "faktura za služby vzor",
+          "faktura šablona zdarma",
+          "jak vytvořit fakturu ve wordu",
+          "tiskopis faktura pro neplátce dph",
+          "ukázka faktury",
+          "vystavení faktury vzor",
+          "vzor faktura neplátce dph zdarma",
+          "vzor faktury plátce dph",
+          "vzor faktury pro plátce dph",
+          "zalohová faktura",
+          "šablona faktura word",
+          "šablona faktura zdarma",
+          "šablona faktury excel",
+          "šablony na faktury",
+          "bianco faktura",
+          "e faktur",
+          "excel vzor faktury",
+          "faktura anglicky vzor",
+          "faktura bez dph vzor",
+          "faktura dph vzor",
+          "faktura eu",
+          "faktura ke stazeni",
+          "faktura online zdarma pdf",
+          "faktura prazdna",
+          "faktura proforma",
+          "faktura v eurech",
+          "faktura v excelu",
+          "faktura v excelu vzor",
+          "faktura v hotovosti vzor",
+          "faktura v pdf",
+          "faktura vzor docx",
+          "faktura xls vzor",
+          "faktura xlsx",
+          "faktura za sluzby",
+          "faktury online pdf",
+          "faktury v pdf",
+          "formular na fakturu",
+          "jak napsat fakturu vzor",
+          "jak vystavit fakturu vzor",
+          "predloha faktury",
+          "predloha faktury na stiahnutie",
+          "qr kod na fakturu",
+          "sablona faktury",
+          "tiskopis faktury",
+          "vzor faktur",
+          "vzor faktura zivnostnik",
+          "vzor faktury excel zdarma",
+          "vzor faktury pdf",
+          "vzor faktury v excelu zdarma",
+          "vzor faktury za sluzby",
+          "vzor na fakturu",
+          "vzorek faktury",
+          "vzory faktur excel",
+          "kontrolní hlášení zálohová faktura",
+          "přijatá zálohová faktura v daňové evidenci",
+          "vyúčtování zálohové faktury",
+          "vyúčtování zálohové faktury vzor",
+          "daňový doklad k přijaté platbě",
+          "daňový doklad k přijaté platbě vzor",
+          "daňový doklad k přijaté záloze",
+          "daňový doklad o přijaté platbě",
+          "daňový doklad o přijaté platbě vzor",
+          "náležitosti faktury s přenesenou daňovou povinností",
+          "vystavená faktura přenesená daňová povinnost vzor",
+          "faktura daňový doklad vzor ke stažení",
+          "konečná faktura k zálohové",
+          "konečná faktura k zálohové vzor",
+          "náležitosti faktury do zahraničí",
+          "náležitosti zálohové faktury",
+          "přenesená daňová povinnost faktura vzor",
+          "přenesená daňová povinnost vzor faktury",
+          "přijatá zálohová faktura",
+          "přijatá zálohová faktura a dph",
+          "vyúčtovací faktura k záloze",
+          "vzor faktury přenesená daňová povinnost",
+          "zálohová a konečná faktura",
+          "zálohová faktura a daňový doklad",
+          "zálohová faktura a následná faktura",
+          "zálohová faktura ke stažení",
+          "zálohová faktura na stavební práce",
+          "zálohová faktura náležitosti",
+          "zálohová faktura v daňové evidenci",
+          "zálohová faktura vzor ke stažení",
+          "zálohová faktura vzor ke stažení zdarma",
+          "zálohový daňový doklad",
+          "daňový doklad faktura neplátce dph vzor",
+          "daňový doklad k záloze",
+          "elektronická faktura náležitosti",
+          "faktura do zahraničí neplátce dph",
+          "faktura s přenesenou daňovou povinností vzor",
+          "fakturace do zahraničí plátce dph",
+          "neplátce dph faktura do zahraničí",
+          "nezaplacení zálohové faktury",
+          "náležitosti elektronické faktury",
+          "osvč fakturace do zahraničí",
+          "vystavená faktura do zahraničí dph",
+          "vystavení faktury do zahraničí",
+          "vyúčtovací faktura vzor",
+          "vzor faktury s přenesenou daňovou povinností",
+          "zálohová faktura neplátce dph vzor",
+          "zápočtová faktura vzor",
+          "zúčtovací faktura",
+          "1 upomínka nezaplacené faktury vzor",
+          "daňový doklad faktura vzor",
+          "daňový doklad vzor",
+          "dph u zálohové faktury",
+          "dph u zálohových faktur",
+          "dph zálohová faktura",
+          "evidence přijatých faktur",
+          "faktura bez živnostenského listu vzor",
+          "faktura daňový doklad vzor",
+          "faktura daňový doklad vzor excel",
+          "faktura formulář zdarma",
+          "faktura ke stažení zdarma excel",
+          "faktura pdf ke stažení zdarma",
+          "faktura přijatá vzor",
+          "faktura stavební práce vzor",
+          "faktura tiskopis ke stažení",
+          "faktura vzor excel ke stažení",
+          "faktura vzor zdarma ke stažení",
+          "faktura za ubytování vzor",
+          "fakturace do zahraničí",
+          "fakturace do zahraničí dph",
+          "formulář faktury vzor",
+          "isdoc příklad",
+          "konečná faktura vzor",
+          "penalizační faktura vzor",
+          "plátce dph vystavuje fakturu neplátci dph",
+          "přípona isdoc",
+          "tiskopis faktury ke stažení zdarma",
+          "upomínka neuhrazené faktury vzor",
+          "upomínka nezaplacené faktury vzor",
+          "upomínka úhrady faktury vzor",
+          "vzor faktura daňový doklad",
+          "vzor faktury do zahraničí",
+          "vzor faktury k vyplnění",
+          "vzor faktury ke stažení word",
+          "vzor faktury osvč neplátce dph",
+          "vzor zálohová faktura",
+          "zahraniční faktura vzor",
+          "zálohová faktura co to je",
+          "zálohová faktura dph",
+          "zálohová faktura s dph nebo bez",
+          "zálohová faktura vs faktura",
+          "zálohová faktura vzor pdf",
+          "zálohové faktury",
+          "zálohové faktury a dph",
+          "celní faktura vzor",
+          "elektronická faktura bez podpisu",
+          "elektronická faktura online",
+          "elektronická faktura vzor",
+          "faktura hotově vzor",
+          "faktura neplátce dph excel",
+          "faktura neplátce dph online",
+          "faktura neplátce dph vzor excel",
+          "faktura neplátce dph vzor word",
+          "faktura neplátce vzor",
+          "faktura online neplátce dph",
+          "faktura plátce dph vzor",
+          "faktura pro neplátce dph vzor 2020",
+          "faktura předtisk",
+          "faktura vzor neplátce dph",
+          "faktura vzor neplátce dph excel",
+          "faktura vzor plátce dph",
+          "faktura vzor pro neplátce dph",
+          "faktura za provedenou práci vzor",
+          "fakturace do eu neplátci dph",
+          "formát isdoc",
+          "isdoc formát",
+          "neplátce dph faktura vzor",
+          "osvč faktura vzor",
+          "platba zálohovou fakturou",
+          "předloha faktura",
+          "předtisk faktury",
+          "storno faktury neplátce dph",
+          "storno vystavené faktury",
+          "stáhnout fakturu zdarma",
+          "upomínka faktury vzor",
+          "upomínka na nezaplacenou fakturu vzor",
+          "vydaná faktura vzor",
+          "vystavená faktura vzor",
+          "vystavení faktury do eu",
+          "vystavení faktury faktura vzor",
+          "vzor faktura osvč",
+          "vzor faktury neplátce dph 2021",
+          "vzor faktury neplátce dph 2022",
+          "vzor faktury neplátce dph word",
+          "vzor faktury pro neplátce",
+          "vzor faktury pro osvč",
+          "zálohova faktura",
+          "e faktury online",
+          "evidence faktur zdarma",
+          "faktura autoservis vzor",
+          "faktura do eu dph",
+          "faktura do eu dph vzor",
+          "faktura do eu vzor",
+          "faktura do zahranici",
+          "faktura online excel",
+          "faktura pdf online",
+          "faktura pdf vzor",
+          "faktura s dph vzor",
+          "faktura tiskopis zdarma",
+          "faktura v eurech vzor",
+          "faktura vzor bez dph",
+          "faktura vzor doc",
+          "faktura vzor online",
+          "faktura vzor sk",
+          "faktura vzor ve wordu",
+          "faktura vzor zdarma",
+          "faktura vzory",
+          "faktura za dopravu vzor",
+          "faktura zivnostnika vzor",
+          "fakturace do eu",
+          "fakturace do zahranici",
+          "fakturace mimo eu",
+          "faktury vzory zdarma",
+          "isdoc",
+          "isdoc reader",
+          "isdoc reader download",
+          "isdoc reader online",
+          "isdoc to pdf",
+          "isdocreader",
+          "isdocx",
+          "online faktura vzor",
+          "online faktury eu",
+          "pdf faktura vzor",
+          "proforma faktura dph",
+          "proforma fakturu",
+          "soubor isdoc",
+          "storno faktura vzor",
+          "storno faktury vzor",
+          "tiskopis faktury zdarma",
+          "vzor faktura bez dph",
+          "vzor faktura s dph",
+          "vzor faktura word",
+          "vzor faktury bez dph",
+          "vzor faktury do eu",
+          "vzor faktury doc",
+          "vzor faktury prenesena danova povinnost",
+          "vzor faktury s dph",
+          "vzor zalohova faktura",
+          "word faktura vzor",
+          "zalohova faktura a dph",
+          "zalohova faktura bez dph",
+          "zalohova faktura danovy doklad",
+          "zalohova faktura s dph"
+        ]
+      },
+      "vertical_kws": [
+        [
+          "faktura online",
+          "online"
+        ],
+        [
+          "faktury online",
+          "online"
+        ],
+        [
+          "faktura",
+          "online"
+        ],
+        [
+          "faktury",
+          "online"
+        ],
+        [
+          "faktura online zdarma",
+          "online"
+        ],
+        [
+          "faktura vzor",
+          "vzory"
+        ],
+        [
+          "jak vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vytvoření faktury",
+          "vystaveni"
+        ],
+        [
+          "faktura zdarma",
+          "online"
+        ],
+        [
+          "fakturace",
+          "online"
+        ],
+        [
+          "faktura vzor ke stažení word",
+          "vzory"
+        ],
+        [
+          "vzor faktury",
+          "vzory"
+        ],
+        [
+          "fakturovač",
+          "online"
+        ],
+        [
+          "program na faktury zdarma",
+          "online"
+        ],
+        [
+          "jak vytvořit fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura online free",
+          "online"
+        ],
+        [
+          "vystaveni faktury",
+          "vystaveni"
+        ],
+        [
+          "faktura cz",
+          "online"
+        ],
+        [
+          "fakturační program zdarma",
+          "online"
+        ],
+        [
+          "faktura vzor excel",
+          "vzory"
+        ],
+        [
+          "vytvoření faktury zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytvoření faktury online",
+          "vystaveni"
+        ],
+        [
+          "efaktury",
+          "vzory"
+        ],
+        [
+          "faktura vzor ke stažení",
+          "vzory"
+        ],
+        [
+          "jak vytvořit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "program na faktury",
+          "online"
+        ],
+        [
+          "tvorba faktur",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury online zdarma",
+          "vystaveni"
+        ],
+        [
+          "vystaveni faktury online",
+          "vystaveni"
+        ],
+        [
+          "vystaveni faktury zdarma",
+          "vystaveni"
+        ],
+        [
+          "aplikace na faktury",
+          "online"
+        ],
+        [
+          "e faktura",
+          "vzory"
+        ],
+        [
+          "vytvoreni faktury",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "isdoc faktura",
+          "vzory"
+        ],
+        [
+          "faktura vzor ke stažení word zdarma",
+          "vzory"
+        ],
+        [
+          "faktura šablona",
+          "vzory"
+        ],
+        [
+          "aplikace na faktury zdarma",
+          "online"
+        ],
+        [
+          "faktura pdf",
+          "vzory"
+        ],
+        [
+          "faktury online free",
+          "online"
+        ],
+        [
+          "generator faktur",
+          "online"
+        ],
+        [
+          "vystavovani faktur",
+          "vystaveni"
+        ],
+        [
+          "vystavit fakturu online",
+          "vystaveni"
+        ],
+        [
+          "generátor faktur",
+          "online"
+        ],
+        [
+          "faktury zadarmo",
+          "online"
+        ],
+        [
+          "faktury vzor",
+          "vzory"
+        ],
+        [
+          "vytvořit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "faktura online zadarmo",
+          "online"
+        ],
+        [
+          "vzor faktury pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "jak udelat fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "jak vytvorit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vytváření faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "zálohová faktura",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor",
+          "vzory"
+        ],
+        [
+          "faktura zdarma online",
+          "online"
+        ],
+        [
+          "fakturace online zdarma",
+          "online"
+        ],
+        [
+          "tvorba faktur online",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu online",
+          "vystaveni"
+        ],
+        [
+          "e faktury",
+          "vzory"
+        ],
+        [
+          "e faktura zdarma",
+          "vzory"
+        ],
+        [
+          "fakturační systém",
+          "online"
+        ],
+        [
+          "fakturační systém zdarma",
+          "online"
+        ],
+        [
+          "jak vytvořit fakturu s qr kódem",
+          "vzory"
+        ],
+        [
+          "faktura bez ičo",
+          "online"
+        ],
+        [
+          "program na vystavení faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "faktura sablona",
+          "vzory"
+        ],
+        [
+          "faktura vzor pdf",
+          "vzory"
+        ],
+        [
+          "fakturacni program",
+          "online"
+        ],
+        [
+          "tvorba faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "vystaveni faktur",
+          "vystaveni"
+        ],
+        [
+          "faktura vzor excel zdarma",
+          "vzory"
+        ],
+        [
+          "fakturovac",
+          "online"
+        ],
+        [
+          "faktura isdoc",
+          "vzory"
+        ],
+        [
+          "vystavení zálohové faktury",
+          "vzory"
+        ],
+        [
+          "vystavení faktury bez ičo",
+          "vystaveni"
+        ],
+        [
+          "vytvoření faktury online zdarma",
+          "vystaveni"
+        ],
+        [
+          "jak udelat fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "sablony faktur",
+          "vzory"
+        ],
+        [
+          "tvorba faktur online zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytváření faktur",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "vystavování faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "jednoduchá faktura vzor",
+          "vzory"
+        ],
+        [
+          "program na faktury pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura online pdf",
+          "vzory"
+        ],
+        [
+          "fakturace zdarma program",
+          "online"
+        ],
+        [
+          "vystav fakturu",
+          "vystaveni"
+        ],
+        [
+          "formulář faktury v excelu",
+          "vzory"
+        ],
+        [
+          "faktura vzor word",
+          "vzory"
+        ],
+        [
+          "jak poslat fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura vzor ke stažení excel",
+          "vzory"
+        ],
+        [
+          "faktura vzor ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "fakturační software",
+          "online"
+        ],
+        [
+          "formulář faktura",
+          "vzory"
+        ],
+        [
+          "formulář faktura zdarma",
+          "vzory"
+        ],
+        [
+          "program na faktury zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura s qr kódem zdarma",
+          "vzory"
+        ],
+        [
+          "vytvořit fakturu online zdarma",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury osvč",
+          "vzory"
+        ],
+        [
+          "šablona na fakturu",
+          "vzory"
+        ],
+        [
+          "faktura online za darmo",
+          "online"
+        ],
+        [
+          "faktura online zdarma bez registrace",
+          "online"
+        ],
+        [
+          "faktura s qr kodem",
+          "vzory"
+        ],
+        [
+          "faktura zdarma pdf",
+          "vzory"
+        ],
+        [
+          "jak napsat fakturu",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "online faktura pdf",
+          "vzory"
+        ],
+        [
+          "program faktury zdarma",
+          "online"
+        ],
+        [
+          "vytvor fakturu",
+          "vystaveni"
+        ],
+        [
+          "vytvoreni faktury zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytvorenie faktury online zadarmo",
+          "vystaveni"
+        ],
+        [
+          "zalohova faktura online",
+          "vzory"
+        ],
+        [
+          "faktura excel vzor",
+          "vzory"
+        ],
+        [
+          "faktura excel",
+          "vzory"
+        ],
+        [
+          "online faktury cz",
+          "online"
+        ],
+        [
+          "fakturační program pro živnostníky",
+          "online"
+        ],
+        [
+          "prázdná faktura ke stažení",
+          "vzory"
+        ],
+        [
+          "program na vytváření faktur",
+          "vystaveni"
+        ],
+        [
+          "faktura ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "faktura online zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "fakturační aplikace",
+          "online"
+        ],
+        [
+          "generování faktur",
+          "online"
+        ],
+        [
+          "jak vytvořit qr kód na fakturu",
+          "vzory"
+        ],
+        [
+          "program na vytvoření faktury",
+          "vystaveni"
+        ],
+        [
+          "vystavování faktur online",
+          "vystaveni"
+        ],
+        [
+          "zálohová faktura online zdarma",
+          "vzory"
+        ],
+        [
+          "faktura bez živnosti",
+          "online"
+        ],
+        [
+          "faktura šablona word",
+          "vzory"
+        ],
+        [
+          "vystavení faktury fyzickou osobou",
+          "vystaveni"
+        ],
+        [
+          "faktur",
+          "online"
+        ],
+        [
+          "faktura format",
+          "vzory"
+        ],
+        [
+          "faktura osvc",
+          "online"
+        ],
+        [
+          "faktura zdarma vzor",
+          "vzory"
+        ],
+        [
+          "faktury pdf",
+          "vzory"
+        ],
+        [
+          "faktury program",
+          "online"
+        ],
+        [
+          "formular faktura",
+          "vzory"
+        ],
+        [
+          "jak fakturovat",
+          "vystaveni"
+        ],
+        [
+          "jak poslat fakturu emailem",
+          "vystaveni"
+        ],
+        [
+          "jak se vystavuje faktura",
+          "vystaveni"
+        ],
+        [
+          "online faktura free",
+          "online"
+        ],
+        [
+          "online faktura zadarmo",
+          "online"
+        ],
+        [
+          "program faktury",
+          "online"
+        ],
+        [
+          "program na fakturaci zdarma",
+          "online"
+        ],
+        [
+          "program na tvorbu faktur",
+          "vystaveni"
+        ],
+        [
+          "vystavit fakturu online zdarma",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury zdarma",
+          "vzory"
+        ],
+        [
+          "fakturu online",
+          "online"
+        ],
+        [
+          "formulář na fakturu zdarma",
+          "vzory"
+        ],
+        [
+          "faktura formulář ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "formulář faktury k vyplnění",
+          "vzory"
+        ],
+        [
+          "nejlepší fakturační program",
+          "online"
+        ],
+        [
+          "faktura neplátce dph vzor ke stažení",
+          "vzory"
+        ],
+        [
+          "jednoduchá faktura ke stažení",
+          "vzory"
+        ],
+        [
+          "fakturační program online",
+          "online"
+        ],
+        [
+          "fakturační software zdarma",
+          "online"
+        ],
+        [
+          "jak správně vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "program na vystavování faktur",
+          "vystaveni"
+        ],
+        [
+          "předloha faktury pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "vytvoření faktury v excelu",
+          "vzory"
+        ],
+        [
+          "vzor faktury ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "zálohová faktura online",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor word",
+          "vzory"
+        ],
+        [
+          "elektronická faktura",
+          "vzory"
+        ],
+        [
+          "elektronická faktura online zdarma",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura osvč vzor",
+          "vzory"
+        ],
+        [
+          "faktury šablony",
+          "vzory"
+        ],
+        [
+          "jak fakturovat neplátci dph",
+          "vzory"
+        ],
+        [
+          "jak má vypadat faktura",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu bez ičo",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu neplátci dph",
+          "vzory"
+        ],
+        [
+          "jak vystavit fakturu pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "předloha faktury",
+          "vzory"
+        ],
+        [
+          "vlastní faktura",
+          "online"
+        ],
+        [
+          "vzor faktura neplátce dph",
+          "vzory"
+        ],
+        [
+          "šablona faktura",
+          "vzory"
+        ],
+        [
+          "šablona faktura excel",
+          "vzory"
+        ],
+        [
+          "dodavatelska faktura",
+          "online"
+        ],
+        [
+          "efaktur",
+          "vzory"
+        ],
+        [
+          "excel faktura vzor",
+          "vzory"
+        ],
+        [
+          "faktur online",
+          "online"
+        ],
+        [
+          "faktura online vzor",
+          "vzory"
+        ],
+        [
+          "faktura online zdarma isdoc",
+          "vzory"
+        ],
+        [
+          "faktura pdf cz",
+          "vzory"
+        ],
+        [
+          "faktura pdf zdarma",
+          "vzory"
+        ],
+        [
+          "faktura snadno",
+          "online"
+        ],
+        [
+          "faktura zdarma excel",
+          "vzory"
+        ],
+        [
+          "fakturace online zdarma cz",
+          "online"
+        ],
+        [
+          "fakturacia",
+          "online"
+        ],
+        [
+          "fakturacni program zdarma",
+          "online"
+        ],
+        [
+          "faktury eu",
+          "vzory"
+        ],
+        [
+          "faktury online za darmo",
+          "online"
+        ],
+        [
+          "faktury program zdarma",
+          "online"
+        ],
+        [
+          "format faktury",
+          "vzory"
+        ],
+        [
+          "formular faktury",
+          "vzory"
+        ],
+        [
+          "generator faktur online",
+          "online"
+        ],
+        [
+          "jak delat faktury",
+          "vystaveni"
+        ],
+        [
+          "jak se dela faktura",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu za praci",
+          "vzory"
+        ],
+        [
+          "mustr faktura",
+          "vzory"
+        ],
+        [
+          "napsat fakturu",
+          "vystaveni"
+        ],
+        [
+          "online tvorba faktur",
+          "vystaveni"
+        ],
+        [
+          "program pro fakturaci",
+          "online"
+        ],
+        [
+          "sablona faktura",
+          "vzory"
+        ],
+        [
+          "tiskopis faktura pdf",
+          "vzory"
+        ],
+        [
+          "tvorba faktur program",
+          "vystaveni"
+        ],
+        [
+          "tvorba faktury zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vzor faktura zdarma",
+          "vzory"
+        ],
+        [
+          "vzor faktury ve wordu",
+          "vzory"
+        ],
+        [
+          "zalohova faktura",
+          "vzory"
+        ],
+        [
+          "fakturacni system",
+          "online"
+        ],
+        [
+          "vzor faktury neplátce dph excel",
+          "vzory"
+        ],
+        [
+          "faktura formular",
+          "vzory"
+        ],
+        [
+          "faktura word vzor",
+          "vzory"
+        ],
+        [
+          "vzor faktura excel",
+          "vzory"
+        ],
+        [
+          "vzor faktury v excelu",
+          "vzory"
+        ],
+        [
+          "elektronická faktura zdarma",
+          "vzory"
+        ],
+        [
+          "faktura přenesená daňová povinnost vzor",
+          "vzory"
+        ],
+        [
+          "fakturační program ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "formulář faktura ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "formulář faktury ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "kniha přijatých faktur ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura šablona ke stažení",
+          "vzory"
+        ],
+        [
+          "formulář faktura neplátce dph",
+          "vzory"
+        ],
+        [
+          "formulář faktury pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "může fyzická osoba vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "můžu vystavit fakturu bez ičo",
+          "vystaveni"
+        ],
+        [
+          "neplátce faktura vzor ke stažení word",
+          "vzory"
+        ],
+        [
+          "vystavení faktury zpětně",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury neplátce dph ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura do zahraničí vzor",
+          "vzory"
+        ],
+        [
+          "faktura tiskopis k vyplnění",
+          "vzory"
+        ],
+        [
+          "faktura vzor k vyplnění",
+          "vzory"
+        ],
+        [
+          "fakturace neplátce dph plátci dph",
+          "vzory"
+        ],
+        [
+          "fakturační adresa",
+          "vzory"
+        ],
+        [
+          "formulář faktura excel",
+          "vzory"
+        ],
+        [
+          "formulář faktury online",
+          "vzory"
+        ],
+        [
+          "formulář na fakturu",
+          "vzory"
+        ],
+        [
+          "kniha přijatých faktur excel",
+          "vzory"
+        ],
+        [
+          "osvč vystavení faktury",
+          "vystaveni"
+        ],
+        [
+          "tiskopis faktury k vyplnění",
+          "vzory"
+        ],
+        [
+          "vystavení faktury neplátce dph",
+          "vzory"
+        ],
+        [
+          "vzor faktury zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "vzor zálohové faktury",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor excel",
+          "vzory"
+        ],
+        [
+          "faktura do německa vzor",
+          "vzory"
+        ],
+        [
+          "faktura fyzická osoba vzor",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura od neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura pro neplátce dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura předloha",
+          "vzory"
+        ],
+        [
+          "faktura vydaná vzor",
+          "vzory"
+        ],
+        [
+          "faktura vystavená",
+          "vystaveni"
+        ],
+        [
+          "faktura vystavená vzor",
+          "vzory"
+        ],
+        [
+          "faktura vzor plátce dph excel",
+          "vzory"
+        ],
+        [
+          "faktura za hotové",
+          "online"
+        ],
+        [
+          "faktura za hotové vzor",
+          "vzory"
+        ],
+        [
+          "faktura za práci vzor",
+          "vzory"
+        ],
+        [
+          "faktura za služby vzor",
+          "vzory"
+        ],
+        [
+          "faktura šablona zdarma",
+          "vzory"
+        ],
+        [
+          "fakturovač zdarma",
+          "online"
+        ],
+        [
+          "faktury vydané",
+          "online"
+        ],
+        [
+          "jak vypadá faktura",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu jako osvč",
+          "vystaveni"
+        ],
+        [
+          "jak vytvořit fakturu ve wordu",
+          "vzory"
+        ],
+        [
+          "jednoduchá faktura",
+          "online"
+        ],
+        [
+          "online fakturácia",
+          "online"
+        ],
+        [
+          "tiskopis faktura pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "ukázka faktury",
+          "vzory"
+        ],
+        [
+          "vystavení faktury vzor",
+          "vzory"
+        ],
+        [
+          "vzor faktura neplátce dph zdarma",
+          "vzory"
+        ],
+        [
+          "vzor faktury plátce dph",
+          "vzory"
+        ],
+        [
+          "vzor faktury pro plátce dph",
+          "vzory"
+        ],
+        [
+          "zalohová faktura",
+          "vzory"
+        ],
+        [
+          "šablona faktura word",
+          "vzory"
+        ],
+        [
+          "šablona faktura zdarma",
+          "vzory"
+        ],
+        [
+          "šablona faktury excel",
+          "vzory"
+        ],
+        [
+          "šablony na faktury",
+          "vzory"
+        ],
+        [
+          "ako fakturovat zivnostnik",
+          "vystaveni"
+        ],
+        [
+          "aplikace faktury",
+          "online"
+        ],
+        [
+          "bianco faktura",
+          "vzory"
+        ],
+        [
+          "e faktur",
+          "vzory"
+        ],
+        [
+          "excel vzor faktury",
+          "vzory"
+        ],
+        [
+          "faktura anglicky vzor",
+          "vzory"
+        ],
+        [
+          "faktura app",
+          "online"
+        ],
+        [
+          "faktura bez dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura download free",
+          "online"
+        ],
+        [
+          "faktura dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura eu",
+          "vzory"
+        ],
+        [
+          "faktura forma",
+          "online"
+        ],
+        [
+          "faktura free",
+          "online"
+        ],
+        [
+          "faktura ke stazeni",
+          "vzory"
+        ],
+        [
+          "faktura na fyzickou osobu",
+          "online"
+        ],
+        [
+          "faktura online bez registrace",
+          "online"
+        ],
+        [
+          "faktura online zdarma pdf",
+          "vzory"
+        ],
+        [
+          "faktura prazdna",
+          "vzory"
+        ],
+        [
+          "faktura proforma",
+          "vzory"
+        ],
+        [
+          "faktura sk",
+          "online"
+        ],
+        [
+          "faktura v eurech",
+          "vzory"
+        ],
+        [
+          "faktura v excelu",
+          "vzory"
+        ],
+        [
+          "faktura v excelu vzor",
+          "vzory"
+        ],
+        [
+          "faktura v hotovosti vzor",
+          "vzory"
+        ],
+        [
+          "faktura v pdf",
+          "vzory"
+        ],
+        [
+          "faktura vzor docx",
+          "vzory"
+        ],
+        [
+          "faktura xls vzor",
+          "vzory"
+        ],
+        [
+          "faktura xlsx",
+          "vzory"
+        ],
+        [
+          "faktura za sluzby",
+          "vzory"
+        ],
+        [
+          "fakturovat",
+          "vystaveni"
+        ],
+        [
+          "fakturu",
+          "online"
+        ],
+        [
+          "faktury free",
+          "online"
+        ],
+        [
+          "faktury on line",
+          "online"
+        ],
+        [
+          "faktury online pdf",
+          "vzory"
+        ],
+        [
+          "faktury v pdf",
+          "vzory"
+        ],
+        [
+          "formular na fakturu",
+          "vzory"
+        ],
+        [
+          "jak na faktury",
+          "vystaveni"
+        ],
+        [
+          "jak napsat fakturu vzor",
+          "vzory"
+        ],
+        [
+          "jak vyplnit fakturu",
+          "vystaveni"
+        ],
+        [
+          "jak vystavit fakturu vzor",
+          "vzory"
+        ],
+        [
+          "online faktur",
+          "online"
+        ],
+        [
+          "predloha faktury",
+          "vzory"
+        ],
+        [
+          "predloha faktury na stiahnutie",
+          "vzory"
+        ],
+        [
+          "program fakturace",
+          "online"
+        ],
+        [
+          "program fakturace zdarma",
+          "online"
+        ],
+        [
+          "qr kod na fakturu",
+          "vzory"
+        ],
+        [
+          "sablona faktury",
+          "vzory"
+        ],
+        [
+          "simple faktura",
+          "online"
+        ],
+        [
+          "software na faktury",
+          "online"
+        ],
+        [
+          "tisk faktury",
+          "vystaveni"
+        ],
+        [
+          "tiskopis faktury",
+          "vzory"
+        ],
+        [
+          "vytvorenie faktury",
+          "vystaveni"
+        ],
+        [
+          "vzor faktur",
+          "vzory"
+        ],
+        [
+          "vzor faktura zivnostnik",
+          "vzory"
+        ],
+        [
+          "vzor faktury excel zdarma",
+          "vzory"
+        ],
+        [
+          "vzor faktury pdf",
+          "vzory"
+        ],
+        [
+          "vzor faktury v excelu zdarma",
+          "vzory"
+        ],
+        [
+          "vzor faktury za sluzby",
+          "vzory"
+        ],
+        [
+          "vzor na fakturu",
+          "vzory"
+        ],
+        [
+          "vzorek faktury",
+          "vzory"
+        ],
+        [
+          "vzory faktur excel",
+          "vzory"
+        ],
+        [
+          "kontrolní hlášení zálohová faktura",
+          "vzory"
+        ],
+        [
+          "přijatá zálohová faktura v daňové evidenci",
+          "vzory"
+        ],
+        [
+          "vyúčtování zálohové faktury",
+          "vzory"
+        ],
+        [
+          "vyúčtování zálohové faktury vzor",
+          "vzory"
+        ],
+        [
+          "daňový doklad k přijaté platbě",
+          "vzory"
+        ],
+        [
+          "daňový doklad k přijaté platbě vzor",
+          "vzory"
+        ],
+        [
+          "daňový doklad k přijaté záloze",
+          "vzory"
+        ],
+        [
+          "daňový doklad o přijaté platbě",
+          "vzory"
+        ],
+        [
+          "daňový doklad o přijaté platbě vzor",
+          "vzory"
+        ],
+        [
+          "náležitosti faktury s přenesenou daňovou povinností",
+          "vzory"
+        ],
+        [
+          "náležitosti faktury v cizí měně",
+          "vystaveni"
+        ],
+        [
+          "vystavená faktura přenesená daňová povinnost vzor",
+          "vzory"
+        ],
+        [
+          "faktura daňový doklad vzor ke stažení",
+          "vzory"
+        ],
+        [
+          "konečná faktura k zálohové",
+          "vzory"
+        ],
+        [
+          "konečná faktura k zálohové vzor",
+          "vzory"
+        ],
+        [
+          "náležitosti faktury do zahraničí",
+          "vzory"
+        ],
+        [
+          "náležitosti zálohové faktury",
+          "vzory"
+        ],
+        [
+          "přenesená daňová povinnost faktura vzor",
+          "vzory"
+        ],
+        [
+          "přenesená daňová povinnost vzor faktury",
+          "vzory"
+        ],
+        [
+          "přijatá zálohová faktura",
+          "vzory"
+        ],
+        [
+          "přijatá zálohová faktura a dph",
+          "vzory"
+        ],
+        [
+          "vyúčtovací faktura k záloze",
+          "vzory"
+        ],
+        [
+          "vzor faktury přenesená daňová povinnost",
+          "vzory"
+        ],
+        [
+          "zákonné náležitosti faktury",
+          "vystaveni"
+        ],
+        [
+          "zálohová a konečná faktura",
+          "vzory"
+        ],
+        [
+          "zálohová faktura a daňový doklad",
+          "vzory"
+        ],
+        [
+          "zálohová faktura a následná faktura",
+          "vzory"
+        ],
+        [
+          "zálohová faktura ke stažení",
+          "vzory"
+        ],
+        [
+          "zálohová faktura na stavební práce",
+          "vzory"
+        ],
+        [
+          "zálohová faktura náležitosti",
+          "vzory"
+        ],
+        [
+          "zálohová faktura v daňové evidenci",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor ke stažení",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "zálohový daňový doklad",
+          "vzory"
+        ],
+        [
+          "daňový doklad faktura neplátce dph vzor",
+          "vzory"
+        ],
+        [
+          "daňový doklad k záloze",
+          "vzory"
+        ],
+        [
+          "dodatečné vystavení faktury",
+          "vystaveni"
+        ],
+        [
+          "elektronická faktura náležitosti",
+          "vzory"
+        ],
+        [
+          "faktura do zahraničí neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura s přenesenou daňovou povinností vzor",
+          "vzory"
+        ],
+        [
+          "fakturace do zahraničí plátce dph",
+          "vzory"
+        ],
+        [
+          "fakturace v cizí měně",
+          "online"
+        ],
+        [
+          "jednoduchý fakturační program",
+          "online"
+        ],
+        [
+          "neplátce dph faktura do zahraničí",
+          "vzory"
+        ],
+        [
+          "nezaplacení zálohové faktury",
+          "vzory"
+        ],
+        [
+          "náležitosti elektronické faktury",
+          "vzory"
+        ],
+        [
+          "osvč fakturace do zahraničí",
+          "vzory"
+        ],
+        [
+          "vystavená faktura do zahraničí dph",
+          "vzory"
+        ],
+        [
+          "vystavení faktury bez živnostenského listu",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury do zahraničí",
+          "vzory"
+        ],
+        [
+          "vyúčtovací faktura vzor",
+          "vzory"
+        ],
+        [
+          "vzor faktury s přenesenou daňovou povinností",
+          "vzory"
+        ],
+        [
+          "zpětné vystavení faktury",
+          "vystaveni"
+        ],
+        [
+          "zálohová faktura neplátce dph vzor",
+          "vzory"
+        ],
+        [
+          "zápočtová faktura vzor",
+          "vzory"
+        ],
+        [
+          "zúčtovací faktura",
+          "vzory"
+        ],
+        [
+          "1 upomínka nezaplacené faktury vzor",
+          "vzory"
+        ],
+        [
+          "daňový doklad faktura vzor",
+          "vzory"
+        ],
+        [
+          "daňový doklad vzor",
+          "vzory"
+        ],
+        [
+          "dph u zálohové faktury",
+          "vzory"
+        ],
+        [
+          "dph u zálohových faktur",
+          "vzory"
+        ],
+        [
+          "dph zálohová faktura",
+          "vzory"
+        ],
+        [
+          "evidence přijatých faktur",
+          "vzory"
+        ],
+        [
+          "faktura bez živnostenského listu vzor",
+          "vzory"
+        ],
+        [
+          "faktura daňový doklad vzor",
+          "vzory"
+        ],
+        [
+          "faktura daňový doklad vzor excel",
+          "vzory"
+        ],
+        [
+          "faktura formulář zdarma",
+          "vzory"
+        ],
+        [
+          "faktura ke stažení zdarma excel",
+          "vzory"
+        ],
+        [
+          "faktura pdf ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "faktura přijatá vzor",
+          "vzory"
+        ],
+        [
+          "faktura stavební práce vzor",
+          "vzory"
+        ],
+        [
+          "faktura tiskopis ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura vzor excel ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura vzor zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura za ubytování vzor",
+          "vzory"
+        ],
+        [
+          "fakturace bez živnostenského listu",
+          "online"
+        ],
+        [
+          "fakturace do zahraničí",
+          "vzory"
+        ],
+        [
+          "fakturace do zahraničí dph",
+          "vzory"
+        ],
+        [
+          "fakturační program pro mac",
+          "online"
+        ],
+        [
+          "fakturační programy",
+          "online"
+        ],
+        [
+          "formulář faktury vzor",
+          "vzory"
+        ],
+        [
+          "isdoc příklad",
+          "vzory"
+        ],
+        [
+          "konečná faktura vzor",
+          "vzory"
+        ],
+        [
+          "náležitost faktury",
+          "vystaveni"
+        ],
+        [
+          "náležitosti faktury",
+          "vystaveni"
+        ],
+        [
+          "penalizační faktura vzor",
+          "vzory"
+        ],
+        [
+          "plátce dph vystavuje fakturu neplátci dph",
+          "vzory"
+        ],
+        [
+          "pozdě vystavená faktura",
+          "vystaveni"
+        ],
+        [
+          "přípona isdoc",
+          "vzory"
+        ],
+        [
+          "tiskopis faktury ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "upomínka neuhrazené faktury vzor",
+          "vzory"
+        ],
+        [
+          "upomínka nezaplacené faktury vzor",
+          "vzory"
+        ],
+        [
+          "upomínka úhrady faktury vzor",
+          "vzory"
+        ],
+        [
+          "vystavení faktury bez ič",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury na přelomu roku",
+          "vystaveni"
+        ],
+        [
+          "vzor faktura daňový doklad",
+          "vzory"
+        ],
+        [
+          "vzor faktury do zahraničí",
+          "vzory"
+        ],
+        [
+          "vzor faktury k vyplnění",
+          "vzory"
+        ],
+        [
+          "vzor faktury ke stažení word",
+          "vzory"
+        ],
+        [
+          "vzor faktury osvč neplátce dph",
+          "vzory"
+        ],
+        [
+          "vzor zálohová faktura",
+          "vzory"
+        ],
+        [
+          "zahraniční faktura vzor",
+          "vzory"
+        ],
+        [
+          "zálohová faktura co to je",
+          "vzory"
+        ],
+        [
+          "zálohová faktura dph",
+          "vzory"
+        ],
+        [
+          "zálohová faktura s dph nebo bez",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vs faktura",
+          "vzory"
+        ],
+        [
+          "zálohová faktura vzor pdf",
+          "vzory"
+        ],
+        [
+          "zálohové faktury",
+          "vzory"
+        ],
+        [
+          "zálohové faktury a dph",
+          "vzory"
+        ],
+        [
+          "automatická fakturace",
+          "online"
+        ],
+        [
+          "celní faktura vzor",
+          "vzory"
+        ],
+        [
+          "datum vystavení faktury",
+          "vystaveni"
+        ],
+        [
+          "duzp vystavení faktury",
+          "vystaveni"
+        ],
+        [
+          "elektronická faktura bez podpisu",
+          "vzory"
+        ],
+        [
+          "elektronická faktura online",
+          "vzory"
+        ],
+        [
+          "elektronická faktura vzor",
+          "vzory"
+        ],
+        [
+          "faktura hotově vzor",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph excel",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph online",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph vzor excel",
+          "vzory"
+        ],
+        [
+          "faktura neplátce dph vzor word",
+          "vzory"
+        ],
+        [
+          "faktura neplátce vzor",
+          "vzory"
+        ],
+        [
+          "faktura online neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura plátce dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura pro neplátce dph vzor 2020",
+          "vzory"
+        ],
+        [
+          "faktura předtisk",
+          "vzory"
+        ],
+        [
+          "faktura vystavená v lednu duzp prosinec",
+          "vystaveni"
+        ],
+        [
+          "faktura vzor neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura vzor neplátce dph excel",
+          "vzory"
+        ],
+        [
+          "faktura vzor plátce dph",
+          "vzory"
+        ],
+        [
+          "faktura vzor pro neplátce dph",
+          "vzory"
+        ],
+        [
+          "faktura za provedenou práci vzor",
+          "vzory"
+        ],
+        [
+          "fakturace do eu neplátci dph",
+          "vzory"
+        ],
+        [
+          "fakturace osvč",
+          "online"
+        ],
+        [
+          "formát isdoc",
+          "vzory"
+        ],
+        [
+          "hromadná fakturace",
+          "online"
+        ],
+        [
+          "isdoc formát",
+          "vzory"
+        ],
+        [
+          "neplátce dph faktura vzor",
+          "vzory"
+        ],
+        [
+          "osvč faktura vzor",
+          "vzory"
+        ],
+        [
+          "osvč fakturace",
+          "online"
+        ],
+        [
+          "platba zálohovou fakturou",
+          "vzory"
+        ],
+        [
+          "program na psaní faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "předloha faktura",
+          "vzory"
+        ],
+        [
+          "předtisk faktury",
+          "vzory"
+        ],
+        [
+          "splatnost faktury od vystavení",
+          "vystaveni"
+        ],
+        [
+          "storno faktury neplátce dph",
+          "vzory"
+        ],
+        [
+          "storno vystavené faktury",
+          "vzory"
+        ],
+        [
+          "stáhnout fakturu zdarma",
+          "vzory"
+        ],
+        [
+          "upomínka faktury vzor",
+          "vzory"
+        ],
+        [
+          "upomínka na nezaplacenou fakturu vzor",
+          "vzory"
+        ],
+        [
+          "vydaná faktura vzor",
+          "vzory"
+        ],
+        [
+          "vystavená faktura",
+          "vystaveni"
+        ],
+        [
+          "vystavená faktura vzor",
+          "vzory"
+        ],
+        [
+          "vystavené faktury",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury do eu",
+          "vzory"
+        ],
+        [
+          "vystavení faktury dph",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury faktura vzor",
+          "vzory"
+        ],
+        [
+          "vzor faktura osvč",
+          "vzory"
+        ],
+        [
+          "vzor faktury neplátce dph 2021",
+          "vzory"
+        ],
+        [
+          "vzor faktury neplátce dph 2022",
+          "vzory"
+        ],
+        [
+          "vzor faktury neplátce dph word",
+          "vzory"
+        ],
+        [
+          "vzor faktury pro neplátce",
+          "vzory"
+        ],
+        [
+          "vzor faktury pro osvč",
+          "vzory"
+        ],
+        [
+          "základy fakturace",
+          "vystaveni"
+        ],
+        [
+          "zálohova faktura",
+          "vzory"
+        ],
+        [
+          "aplikace faktury zdarma",
+          "online"
+        ],
+        [
+          "do kdy vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "e faktury online",
+          "vzory"
+        ],
+        [
+          "edi fakturace",
+          "online"
+        ],
+        [
+          "evidence faktur zdarma",
+          "vzory"
+        ],
+        [
+          "faktura autoservis vzor",
+          "vzory"
+        ],
+        [
+          "faktura bez dph",
+          "online"
+        ],
+        [
+          "faktura do 10000",
+          "online"
+        ],
+        [
+          "faktura do eu dph",
+          "vzory"
+        ],
+        [
+          "faktura do eu dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura do eu vzor",
+          "vzory"
+        ],
+        [
+          "faktura do zahranici",
+          "vzory"
+        ],
+        [
+          "faktura on line",
+          "online"
+        ],
+        [
+          "faktura online excel",
+          "vzory"
+        ],
+        [
+          "faktura online generator",
+          "online"
+        ],
+        [
+          "faktura pdf online",
+          "vzory"
+        ],
+        [
+          "faktura pdf vzor",
+          "vzory"
+        ],
+        [
+          "faktura s dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura tiskopis zdarma",
+          "vzory"
+        ],
+        [
+          "faktura v eurech vzor",
+          "vzory"
+        ],
+        [
+          "faktura vzor bez dph",
+          "vzory"
+        ],
+        [
+          "faktura vzor doc",
+          "vzory"
+        ],
+        [
+          "faktura vzor online",
+          "vzory"
+        ],
+        [
+          "faktura vzor sk",
+          "vzory"
+        ],
+        [
+          "faktura vzor ve wordu",
+          "vzory"
+        ],
+        [
+          "faktura vzor zdarma",
+          "vzory"
+        ],
+        [
+          "faktura vzory",
+          "vzory"
+        ],
+        [
+          "faktura za dopravu vzor",
+          "vzory"
+        ],
+        [
+          "faktura zivnostnika vzor",
+          "vzory"
+        ],
+        [
+          "fakturace bez dph",
+          "online"
+        ],
+        [
+          "fakturace do eu",
+          "vzory"
+        ],
+        [
+          "fakturace do zahranici",
+          "vzory"
+        ],
+        [
+          "fakturace dph",
+          "online"
+        ],
+        [
+          "fakturace free",
+          "online"
+        ],
+        [
+          "fakturace mimo eu",
+          "vzory"
+        ],
+        [
+          "fakturace s dph",
+          "online"
+        ],
+        [
+          "fakturace zdarma online",
+          "online"
+        ],
+        [
+          "fakturaci",
+          "online"
+        ],
+        [
+          "faktury on line zdarma",
+          "online"
+        ],
+        [
+          "faktury vzory zdarma",
+          "vzory"
+        ],
+        [
+          "isdoc",
+          "vzory"
+        ],
+        [
+          "isdoc reader",
+          "vzory"
+        ],
+        [
+          "isdoc reader download",
+          "vzory"
+        ],
+        [
+          "isdoc reader online",
+          "vzory"
+        ],
+        [
+          "isdoc to pdf",
+          "vzory"
+        ],
+        [
+          "isdocreader",
+          "vzory"
+        ],
+        [
+          "isdocx",
+          "vzory"
+        ],
+        [
+          "online faktura vzor",
+          "vzory"
+        ],
+        [
+          "online faktury eu",
+          "vzory"
+        ],
+        [
+          "pdf faktura vzor",
+          "vzory"
+        ],
+        [
+          "povinnost vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "proforma faktura dph",
+          "vzory"
+        ],
+        [
+          "proforma fakturu",
+          "vzory"
+        ],
+        [
+          "program na tvorbu faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "program pro fakturaci zdarma",
+          "online"
+        ],
+        [
+          "program tvorba faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "software fakturace",
+          "online"
+        ],
+        [
+          "soubor isdoc",
+          "vzory"
+        ],
+        [
+          "storno faktura vzor",
+          "vzory"
+        ],
+        [
+          "storno faktury vzor",
+          "vzory"
+        ],
+        [
+          "tisk faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "tiskopis faktury zdarma",
+          "vzory"
+        ],
+        [
+          "vystavena faktura",
+          "vystaveni"
+        ],
+        [
+          "vzor faktura bez dph",
+          "vzory"
+        ],
+        [
+          "vzor faktura s dph",
+          "vzory"
+        ],
+        [
+          "vzor faktura word",
+          "vzory"
+        ],
+        [
+          "vzor faktury bez dph",
+          "vzory"
+        ],
+        [
+          "vzor faktury do eu",
+          "vzory"
+        ],
+        [
+          "vzor faktury doc",
+          "vzory"
+        ],
+        [
+          "vzor faktury prenesena danova povinnost",
+          "vzory"
+        ],
+        [
+          "vzor faktury s dph",
+          "vzory"
+        ],
+        [
+          "vzor zalohova faktura",
+          "vzory"
+        ],
+        [
+          "word faktura vzor",
+          "vzory"
+        ],
+        [
+          "zalohova faktura a dph",
+          "vzory"
+        ],
+        [
+          "zalohova faktura bez dph",
+          "vzory"
+        ],
+        [
+          "zalohova faktura danovy doklad",
+          "vzory"
+        ],
+        [
+          "zalohova faktura s dph",
+          "vzory"
+        ]
+      ],
+      "top10_candidates": [
+        [
+          "faktura online",
+          9646.8
+        ],
+        [
+          "faktury online",
+          4534.4
+        ],
+        [
+          "faktura",
+          3842.4
+        ],
+        [
+          "faktura vzor",
+          3791.4
+        ],
+        [
+          "faktura online zdarma",
+          2563.8
+        ],
+        [
+          "faktury",
+          2510.7
+        ],
+        [
+          "faktury zdarma",
+          2161.3
+        ],
+        [
+          "fakturace",
+          1754.2
+        ],
+        [
+          "vystavení faktury",
+          1538.7
+        ],
+        [
+          "faktura zdarma",
+          1169.2
+        ],
+        [
+          "vzor faktury",
+          1028.5
+        ],
+        [
+          "faktury online zdarma",
+          964.1
+        ],
+        [
+          "vytvoření faktury online zdarma",
+          948.1
+        ],
+        [
+          "online faktura",
+          873.7
+        ],
+        [
+          "vystavení faktury zdarma",
+          868.9
+        ],
+        [
+          "jak vystavit fakturu",
+          840.8
+        ],
+        [
+          "fakturace zdarma",
+          824.2
+        ],
+        [
+          "efaktura",
+          790.3
+        ],
+        [
+          "fakturace online",
+          767.0
+        ],
+        [
+          "online faktury",
+          624.5
+        ],
+        [
+          "program na faktury",
+          599.0
+        ],
+        [
+          "vystavení faktury online zdarma",
+          535.6
+        ],
+        [
+          "vystavit fakturu",
+          514.6
+        ],
+        [
+          "fakturační program zdarma",
+          470.9
+        ],
+        [
+          "vytvoření faktury",
+          467.7
+        ],
+        [
+          "vystavit fakturu online",
+          447.6
+        ],
+        [
+          "program na faktury zdarma",
+          444.5
+        ],
+        [
+          "e faktura",
+          432.1
+        ],
+        [
+          "tvorba faktur zdarma",
+          408.3
+        ],
+        [
+          "fakturu",
+          397.0
+        ],
+        [
+          "faktura cz",
+          368.9
+        ],
+        [
+          "online faktury zdarma",
+          363.8
+        ],
+        [
+          "tvorba faktur",
+          341.0
+        ],
+        [
+          "isdoc",
+          337.1
+        ],
+        [
+          "faktury vzor",
+          330.4
+        ],
+        [
+          "vzor faktura",
+          328.9
+        ],
+        [
+          "jak vytvořit fakturu",
+          324.7
+        ],
+        [
+          "vystavení faktury online",
+          318.4
+        ],
+        [
+          "vytvoření faktury zdarma",
+          313.0
+        ],
+        [
+          "efaktury",
+          312.8
+        ]
+      ]
+    },
+    "sk": {
+      "label": "Slovensko",
+      "geo": "2703",
+      "language": "1033",
+      "customer_id": "3452024554",
+      "currency": "€",
+      "brands": [
+        {
+          "name": "KROS + iKROS",
+          "color": "#4A9FF5",
+          "keywords": [
+            "ikros",
+            "kros fakturacia",
+            "kros fakturácia",
+            "fakturacia kros",
+            "ikros faktury",
+            "ikros faktura",
+            "ikros faktúra",
+            "kros fakturacia prihlasenie",
+            "ikros sk",
+            "ikros prihlásenie",
+            "kros fakturacia zadarmo",
+            "ikros faktúry",
+            "kros fakturacia aplikacia",
+            "fakturacia kros sk"
+          ]
+        },
+        {
+          "name": "SuperFaktura",
+          "color": "#7F98C6",
+          "keywords": [
+            "superfaktura",
+            "superfaktury",
+            "superfaktura sk",
+            "superfaktúra",
+            "super faktura",
+            "www superfaktura sk",
+            "superfaktura cennik"
+          ]
+        },
+        {
+          "name": "iDoklad",
+          "color": "#4B3BC9",
+          "client": true,
+          "keywords": [
+            "idoklad",
+            "idoklad sk",
+            "idoklad prihlásenie",
+            "idoklad cennik",
+            "www idoklad sk"
+          ]
+        },
+        {
+          "name": "mPohoda",
+          "color": "#9AA0AB",
+          "keywords": [
+            "mpohoda",
+            "mpohoda sk",
+            "m pohoda"
+          ]
+        },
+        {
+          "name": "FakturaOnline",
+          "color": "#F28A00",
+          "keywords": [
+            "fakturaonline",
+            "fakturaonline sk"
+          ]
+        },
+        {
+          "name": "eFaktura",
+          "color": "#3FA796",
+          "keywords": [
+            "efaktura",
+            "e faktura",
+            "efaktúra"
+          ]
+        }
+      ],
+      "vertical": {
+        "online": [
+          "faktury online",
+          "faktura online",
+          "faktura online zadarmo",
+          "faktura",
+          "faktury",
+          "online faktura zadarmo",
+          "faktura zadarmo",
+          "fakturacia",
+          "fakturácia zadarmo",
+          "online faktury zadarmo",
+          "fakturačný program zadarmo",
+          "faktura online zdarma",
+          "program na faktury",
+          "faktura zdarma",
+          "program na faktury zdarma",
+          "fakturacia online zadarmo",
+          "fakturacia zadarmo",
+          "fakturačný program",
+          "faktura zadarmo online",
+          "fakturacia zdarma",
+          "faktury zadarmo online",
+          "fakturacny system",
+          "aplikacia na faktury",
+          "faktury online zdarma",
+          "software na faktury",
+          "faktura online free",
+          "fakturacny system zadarmo",
+          "fakturácia",
+          "fakturacne programy",
+          "free faktury",
+          "generator faktur",
+          "fakturácia online",
+          "fakturačný systém",
+          "fakturačné programy",
+          "faktura free",
+          "faktura pre zivnostnikov",
+          "faktura program",
+          "fakturacny program zadarmo",
+          "fakturacny software zadarmo",
+          "free faktura",
+          "online faktur",
+          "online faktura sk",
+          "online fakturacia zadarmo",
+          "program na fakturaciu",
+          "program na faktury pre zivnostnikov",
+          "fakturacie",
+          "fakturacny program",
+          "faktury free",
+          "faktury online free",
+          "aplikacia na faktury zadarmo",
+          "online fakturácia zadarmo",
+          "faktury pre zivnostnikov",
+          "fakturační software",
+          "fakturačný software",
+          "faktura fyzická osoba",
+          "fakturovač",
+          "faktur",
+          "faktura 2025",
+          "faktura generator",
+          "faktura online zdarma bez registrace",
+          "faktura online zdarma sk",
+          "faktura sk",
+          "faktura za darmo",
+          "faktura zdarma online",
+          "fakturacia program",
+          "fakturacni program zdarma",
+          "fakturacny program free",
+          "fakturacny software",
+          "faktury zadarmo program",
+          "jednoducha faktura",
+          "online faktura free",
+          "program faktury",
+          "system faktur",
+          "program na fakturáciu zadarmo",
+          "faktura online bez registracie",
+          "prototyp faktury",
+          "online fakturácia",
+          "faktura 2026",
+          "fakturačný program zdarma",
+          "fakturácie",
+          "faktúra online",
+          "faktúra zadarmo",
+          "faktúry",
+          "faktúry online",
+          "faktúry online zadarmo",
+          "online faktúra",
+          "online faktúry zadarmo",
+          "program na faktúry zadarmo"
+        ],
+        "vystaveni": [
+          "vytvorenie faktury",
+          "vytvorenie faktury zdarma",
+          "vytvorit fakturu zadarmo",
+          "vytvorit fakturu",
+          "vystavit fakturu online",
+          "vytvorenie faktury zadarmo",
+          "vystavit fakturu",
+          "ako vytvorit fakturu",
+          "vytvorenie faktury online zadarmo",
+          "vytvaranie faktur",
+          "vytvor fakturu",
+          "ako vystavit fakturu zivnostnik",
+          "vytvorenie faktury online",
+          "ako spravit fakturu",
+          "vystavenie faktury zadarmo",
+          "vystavit fakturu zadarmo",
+          "vystavenie faktury online",
+          "ako urobit fakturu",
+          "vystav fakturu",
+          "vytvorit fakturu online",
+          "ako vystavit fakturu",
+          "online tvorba faktur",
+          "tvorba faktur zdarma",
+          "tvorba faktury zadarmo",
+          "vystavenie faktur",
+          "fakturovanie",
+          "vystavovanie faktur",
+          "program na vystavovanie faktur",
+          "program na vytvorenie faktury",
+          "tvorba faktur",
+          "program na vytváranie faktur",
+          "vystavenie faktury zivnostnik",
+          "vystav fakturu sk",
+          "vystavování faktur zdarma",
+          "ako fakturovať",
+          "jak vytvořit fakturu",
+          "vystavení faktury online",
+          "vytvořit fakturu",
+          "ako napisat fakturu",
+          "ako sa vypisuje faktura",
+          "ako vyplnit fakturu",
+          "ako vyzera faktura",
+          "jak vyplnit fakturu",
+          "jak vytvorit fakturu",
+          "pisanie faktur",
+          "program na fakturovanie",
+          "program na tvorbu faktur zdarma",
+          "program na vytvorenie faktury zadarmo",
+          "tvorba faktury online zdarma",
+          "vystavenie faktury bez dph",
+          "vystavit fakturu zdarma",
+          "vystavovanie faktur zdarma",
+          "vytvorit fakturu online zdarma",
+          "vytvorit fakturu zdarma",
+          "jednoduchý program na vystavování faktur",
+          "program na vystavení faktur zdarma",
+          "ako fakturovat zivnostnik",
+          "program na vystavenie faktury",
+          "program na vytvaranie faktur",
+          "tvorba faktury online",
+          "ako vystaviť faktúru",
+          "vystavenie faktúry do 15 dní",
+          "vystavenie faktúry nepodnikateľom",
+          "vystavenie faktúry",
+          "vystavenie faktúry fyzickej osobe",
+          "vystavenie faktúry online",
+          "vystavenie faktúry online zadarmo",
+          "vytvorenie faktúry",
+          "vytvorenie faktúry online",
+          "vytvorenie faktúry zadarmo",
+          "vystavenie faktury fyzickou osobou"
+        ],
+        "vzory": [
+          "isdoc faktura",
+          "vzor faktury",
+          "vzor faktury na stiahnutie",
+          "faktura vzor",
+          "faktury zadarmo na stiahnutie",
+          "faktura isdoc",
+          "zalohova faktura online",
+          "faktura s qr kódom",
+          "vzor faktura",
+          "tlacivo faktura",
+          "faktury s qr kódom",
+          "faktura word vzor",
+          "prazdna faktura na stiahnutie",
+          "faktura vzor na stiahnutie",
+          "faktura sablona",
+          "faktura formulář ke stažení zdarma",
+          "elektronická fakturácia",
+          "faktura zdarma ke stažení",
+          "faktura živnostník vzor",
+          "formulář faktura zdarma",
+          "německá faktura vzor",
+          "program na faktury zdarma ke stažení",
+          "vzor faktury živnostník na stiahnutie",
+          "zálohová faktura",
+          "zálohová faktura online",
+          "elektronická faktura",
+          "faktura bez ičo vzor",
+          "faktura s qr kódom zdarma",
+          "faktury šablony",
+          "šablona faktura",
+          "šablona faktury zdarma",
+          "digitalna faktura",
+          "elektronicka faktura",
+          "elektronicka fakturacia",
+          "excel faktura",
+          "faktura online pdf",
+          "faktura s dph vzor",
+          "faktura v anglictine",
+          "faktura vzor excel",
+          "faktura vzor zdarma",
+          "faktura xls",
+          "faktury na stiahnutie zadarmo",
+          "faktury xml",
+          "online faktura pdf",
+          "priklad faktury",
+          "qr kod na fakturu",
+          "sablona faktury",
+          "tlaciva online faktura",
+          "ukazka faktury",
+          "vystavenie faktury neplatca dph",
+          "vzor faktura word",
+          "vzor faktura zivnostnik",
+          "vzor faktury zivnostnik",
+          "faktura na stiahnutie",
+          "format faktury",
+          "formular faktury",
+          "faktura formular",
+          "vzor faktury bez dph",
+          "zálohová a vyúčtovacia faktúra",
+          "zálohová faktúra daňový doklad",
+          "faktúra šablóna",
+          "faktúra živnostníka vzor",
+          "vzor faktúry pre živnostníkov",
+          "vzory faktúr pre živnostníkov",
+          "zálohová faktúra a dph",
+          "zálohová faktúra dph",
+          "zálohová faktúra neplatca dph",
+          "zálohová faktúra s dph",
+          "zálohová faktúra vzor na stiahnutie",
+          "elektronická faktúra",
+          "elektronická faktúra vzor",
+          "faktúra online tlačivo",
+          "faktúra tlačivo pdf",
+          "faktúra tlačivo word",
+          "faktúra tlačivo zadarmo",
+          "preddavková faktúra a dph",
+          "preddavková faktúra vzor",
+          "tlačivo faktúra na stiahnutie zadarmo",
+          "vrátenie faktúry vzor",
+          "vystavenie faktúry do zahraničia",
+          "vystavenie zálohovej faktúry",
+          "vzor zálohovej faktúry",
+          "faktúra k prijatej platbe vzor",
+          "faktúra neplatca dph vzor",
+          "faktúra vzor",
+          "faktúra vzor na stiahnutie",
+          "faktúra vzor na stiahnutie zadarmo",
+          "faktúra vzor neplatca dph",
+          "faktúra vzor neplatca dph word",
+          "faktúra vzor pdf",
+          "faktúra vzor pre zivnostnikov",
+          "faktúra vzor word",
+          "faktúra vzor xls",
+          "faktúra za ubytovanie vzor",
+          "faktúry vzor na stiahnutie",
+          "proforma faktúra vzor",
+          "vystavenie faktúry pre neplatcu dph",
+          "vystavenie faktúry vzor",
+          "vzor faktúra na stiahnutie",
+          "vzor faktúry",
+          "vzor faktúry na stiahnutie zadarmo",
+          "vzor faktúry neplatca dph",
+          "vzor faktúry neplatca dph excel",
+          "vzor faktúry neplatca dph na stiahnutie",
+          "vzor faktúry pdf",
+          "vzor faktúry platca dph",
+          "vzor faktúry pre neplatcu dph",
+          "vzor faktúry vo worde",
+          "vzor faktúry word",
+          "vzor faktúry za ubytovanie",
+          "faktura danovy doklad vzor",
+          "faktura ubytovanie vzor",
+          "faktura za vykonanu pracu vzor",
+          "isdoc",
+          "isdoc format",
+          "preddavkova faktura",
+          "tlacivo faktura na stiahnutie zadarmo",
+          "tlacivo faktura pre neplatcu dph",
+          "vystavit fakturu vzor faktura zivnostnik",
+          "vzor faktura neplatca dph",
+          "vzor faktury excel zadarmo",
+          "vzor faktury neplatca dph",
+          "vzor faktury neplatca dph excel",
+          "vzor faktury pre zivnostnikov",
+          "vzor faktury szco",
+          "vzor faktury zadarmo",
+          "zalohova faktura bez dph",
+          "zalohova faktura co to je"
+        ]
+      },
+      "vertical_kws": [
+        [
+          "faktury online",
+          "online"
+        ],
+        [
+          "faktura online",
+          "online"
+        ],
+        [
+          "faktura online zadarmo",
+          "online"
+        ],
+        [
+          "faktura",
+          "online"
+        ],
+        [
+          "faktury",
+          "online"
+        ],
+        [
+          "online faktura zadarmo",
+          "online"
+        ],
+        [
+          "faktura zadarmo",
+          "online"
+        ],
+        [
+          "fakturacia",
+          "online"
+        ],
+        [
+          "vytvorenie faktury",
+          "vystaveni"
+        ],
+        [
+          "fakturácia zadarmo",
+          "online"
+        ],
+        [
+          "online faktury zadarmo",
+          "online"
+        ],
+        [
+          "vytvorenie faktury zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu zadarmo",
+          "vystaveni"
+        ],
+        [
+          "fakturačný program zadarmo",
+          "online"
+        ],
+        [
+          "faktura online zdarma",
+          "online"
+        ],
+        [
+          "program na faktury",
+          "online"
+        ],
+        [
+          "faktura zdarma",
+          "online"
+        ],
+        [
+          "vytvorit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vystavit fakturu online",
+          "vystaveni"
+        ],
+        [
+          "isdoc faktura",
+          "vzory"
+        ],
+        [
+          "program na faktury zdarma",
+          "online"
+        ],
+        [
+          "fakturacia online zadarmo",
+          "online"
+        ],
+        [
+          "vytvorenie faktury zadarmo",
+          "vystaveni"
+        ],
+        [
+          "fakturacia zadarmo",
+          "online"
+        ],
+        [
+          "fakturačný program",
+          "online"
+        ],
+        [
+          "vzor faktury",
+          "vzory"
+        ],
+        [
+          "vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "ako vytvorit fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura zadarmo online",
+          "online"
+        ],
+        [
+          "fakturacia zdarma",
+          "online"
+        ],
+        [
+          "vytvorenie faktury online zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury na stiahnutie",
+          "vzory"
+        ],
+        [
+          "vytvaranie faktur",
+          "vystaveni"
+        ],
+        [
+          "vytvor fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktury zadarmo online",
+          "online"
+        ],
+        [
+          "ako vystavit fakturu zivnostnik",
+          "vystaveni"
+        ],
+        [
+          "vytvorenie faktury online",
+          "vystaveni"
+        ],
+        [
+          "ako spravit fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura vzor",
+          "vzory"
+        ],
+        [
+          "fakturacny system",
+          "online"
+        ],
+        [
+          "aplikacia na faktury",
+          "online"
+        ],
+        [
+          "faktury zadarmo na stiahnutie",
+          "vzory"
+        ],
+        [
+          "vystavenie faktury zadarmo",
+          "vystaveni"
+        ],
+        [
+          "faktury online zdarma",
+          "online"
+        ],
+        [
+          "software na faktury",
+          "online"
+        ],
+        [
+          "vystavit fakturu zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktury online",
+          "vystaveni"
+        ],
+        [
+          "faktura online free",
+          "online"
+        ],
+        [
+          "ako urobit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vystav fakturu",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu online",
+          "vystaveni"
+        ],
+        [
+          "faktura isdoc",
+          "vzory"
+        ],
+        [
+          "zalohova faktura online",
+          "vzory"
+        ],
+        [
+          "fakturacny system zadarmo",
+          "online"
+        ],
+        [
+          "faktura s qr kódom",
+          "vzory"
+        ],
+        [
+          "fakturácia",
+          "online"
+        ],
+        [
+          "fakturacne programy",
+          "online"
+        ],
+        [
+          "free faktury",
+          "online"
+        ],
+        [
+          "generator faktur",
+          "online"
+        ],
+        [
+          "vzor faktura",
+          "vzory"
+        ],
+        [
+          "fakturácia online",
+          "online"
+        ],
+        [
+          "fakturačný systém",
+          "online"
+        ],
+        [
+          "fakturačné programy",
+          "online"
+        ],
+        [
+          "ako vystavit fakturu",
+          "vystaveni"
+        ],
+        [
+          "faktura free",
+          "online"
+        ],
+        [
+          "faktura pre zivnostnikov",
+          "online"
+        ],
+        [
+          "faktura program",
+          "online"
+        ],
+        [
+          "fakturacny program zadarmo",
+          "online"
+        ],
+        [
+          "fakturacny software zadarmo",
+          "online"
+        ],
+        [
+          "free faktura",
+          "online"
+        ],
+        [
+          "online faktur",
+          "online"
+        ],
+        [
+          "online faktura sk",
+          "online"
+        ],
+        [
+          "online fakturacia zadarmo",
+          "online"
+        ],
+        [
+          "online tvorba faktur",
+          "vystaveni"
+        ],
+        [
+          "program na fakturaciu",
+          "online"
+        ],
+        [
+          "tlacivo faktura",
+          "vzory"
+        ],
+        [
+          "tvorba faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "tvorba faktury zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktur",
+          "vystaveni"
+        ],
+        [
+          "fakturovanie",
+          "vystaveni"
+        ],
+        [
+          "vystavovanie faktur",
+          "vystaveni"
+        ],
+        [
+          "program na vystavovanie faktur",
+          "vystaveni"
+        ],
+        [
+          "program na vytvorenie faktury",
+          "vystaveni"
+        ],
+        [
+          "faktury s qr kódom",
+          "vzory"
+        ],
+        [
+          "program na faktury pre zivnostnikov",
+          "online"
+        ],
+        [
+          "tvorba faktur",
+          "vystaveni"
+        ],
+        [
+          "program na vytváranie faktur",
+          "vystaveni"
+        ],
+        [
+          "faktura word vzor",
+          "vzory"
+        ],
+        [
+          "fakturacie",
+          "online"
+        ],
+        [
+          "fakturacny program",
+          "online"
+        ],
+        [
+          "faktury free",
+          "online"
+        ],
+        [
+          "faktury online free",
+          "online"
+        ],
+        [
+          "vystavenie faktury zivnostnik",
+          "vystaveni"
+        ],
+        [
+          "prazdna faktura na stiahnutie",
+          "vzory"
+        ],
+        [
+          "aplikacia na faktury zadarmo",
+          "online"
+        ],
+        [
+          "faktura vzor na stiahnutie",
+          "vzory"
+        ],
+        [
+          "online fakturácia zadarmo",
+          "online"
+        ],
+        [
+          "faktura sablona",
+          "vzory"
+        ],
+        [
+          "faktury pre zivnostnikov",
+          "online"
+        ],
+        [
+          "vystav fakturu sk",
+          "vystaveni"
+        ],
+        [
+          "faktura formulář ke stažení zdarma",
+          "vzory"
+        ],
+        [
+          "elektronická fakturácia",
+          "vzory"
+        ],
+        [
+          "faktura zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "faktura živnostník vzor",
+          "vzory"
+        ],
+        [
+          "fakturační software",
+          "online"
+        ],
+        [
+          "fakturačný software",
+          "online"
+        ],
+        [
+          "formulář faktura zdarma",
+          "vzory"
+        ],
+        [
+          "německá faktura vzor",
+          "vzory"
+        ],
+        [
+          "program na faktury zdarma ke stažení",
+          "vzory"
+        ],
+        [
+          "vystavování faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "vzor faktury živnostník na stiahnutie",
+          "vzory"
+        ],
+        [
+          "zálohová faktura",
+          "vzory"
+        ],
+        [
+          "zálohová faktura online",
+          "vzory"
+        ],
+        [
+          "ako fakturovať",
+          "vystaveni"
+        ],
+        [
+          "elektronická faktura",
+          "vzory"
+        ],
+        [
+          "faktura bez ičo vzor",
+          "vzory"
+        ],
+        [
+          "faktura fyzická osoba",
+          "online"
+        ],
+        [
+          "faktura s qr kódom zdarma",
+          "vzory"
+        ],
+        [
+          "fakturovač",
+          "online"
+        ],
+        [
+          "faktury šablony",
+          "vzory"
+        ],
+        [
+          "jak vytvořit fakturu",
+          "vystaveni"
+        ],
+        [
+          "vystavení faktury online",
+          "vystaveni"
+        ],
+        [
+          "vytvořit fakturu",
+          "vystaveni"
+        ],
+        [
+          "šablona faktura",
+          "vzory"
+        ],
+        [
+          "šablona faktury zdarma",
+          "vzory"
+        ],
+        [
+          "ako napisat fakturu",
+          "vystaveni"
+        ],
+        [
+          "ako sa vypisuje faktura",
+          "vystaveni"
+        ],
+        [
+          "ako vyplnit fakturu",
+          "vystaveni"
+        ],
+        [
+          "ako vyzera faktura",
+          "vystaveni"
+        ],
+        [
+          "digitalna faktura",
+          "vzory"
+        ],
+        [
+          "elektronicka faktura",
+          "vzory"
+        ],
+        [
+          "elektronicka fakturacia",
+          "vzory"
+        ],
+        [
+          "excel faktura",
+          "vzory"
+        ],
+        [
+          "faktur",
+          "online"
+        ],
+        [
+          "faktura 2025",
+          "online"
+        ],
+        [
+          "faktura generator",
+          "online"
+        ],
+        [
+          "faktura online pdf",
+          "vzory"
+        ],
+        [
+          "faktura online zdarma bez registrace",
+          "online"
+        ],
+        [
+          "faktura online zdarma sk",
+          "online"
+        ],
+        [
+          "faktura s dph vzor",
+          "vzory"
+        ],
+        [
+          "faktura sk",
+          "online"
+        ],
+        [
+          "faktura v anglictine",
+          "vzory"
+        ],
+        [
+          "faktura vzor excel",
+          "vzory"
+        ],
+        [
+          "faktura vzor zdarma",
+          "vzory"
+        ],
+        [
+          "faktura xls",
+          "vzory"
+        ],
+        [
+          "faktura za darmo",
+          "online"
+        ],
+        [
+          "faktura zdarma online",
+          "online"
+        ],
+        [
+          "fakturacia program",
+          "online"
+        ],
+        [
+          "fakturacni program zdarma",
+          "online"
+        ],
+        [
+          "fakturacny program free",
+          "online"
+        ],
+        [
+          "fakturacny software",
+          "online"
+        ],
+        [
+          "faktury na stiahnutie zadarmo",
+          "vzory"
+        ],
+        [
+          "faktury xml",
+          "vzory"
+        ],
+        [
+          "faktury zadarmo program",
+          "online"
+        ],
+        [
+          "jak vyplnit fakturu",
+          "vystaveni"
+        ],
+        [
+          "jak vytvorit fakturu",
+          "vystaveni"
+        ],
+        [
+          "jednoducha faktura",
+          "online"
+        ],
+        [
+          "online faktura free",
+          "online"
+        ],
+        [
+          "online faktura pdf",
+          "vzory"
+        ],
+        [
+          "pisanie faktur",
+          "vystaveni"
+        ],
+        [
+          "priklad faktury",
+          "vzory"
+        ],
+        [
+          "program faktury",
+          "online"
+        ],
+        [
+          "program na fakturovanie",
+          "vystaveni"
+        ],
+        [
+          "program na tvorbu faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "program na vytvorenie faktury zadarmo",
+          "vystaveni"
+        ],
+        [
+          "qr kod na fakturu",
+          "vzory"
+        ],
+        [
+          "sablona faktury",
+          "vzory"
+        ],
+        [
+          "system faktur",
+          "online"
+        ],
+        [
+          "tlaciva online faktura",
+          "vzory"
+        ],
+        [
+          "tvorba faktury online zdarma",
+          "vystaveni"
+        ],
+        [
+          "ukazka faktury",
+          "vzory"
+        ],
+        [
+          "vystavenie faktury bez dph",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktury neplatca dph",
+          "vzory"
+        ],
+        [
+          "vystavit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "vystavovanie faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu online zdarma",
+          "vystaveni"
+        ],
+        [
+          "vytvorit fakturu zdarma",
+          "vystaveni"
+        ],
+        [
+          "vzor faktura word",
+          "vzory"
+        ],
+        [
+          "vzor faktura zivnostnik",
+          "vzory"
+        ],
+        [
+          "vzor faktury zivnostnik",
+          "vzory"
+        ],
+        [
+          "faktura na stiahnutie",
+          "vzory"
+        ],
+        [
+          "jednoduchý program na vystavování faktur",
+          "vystaveni"
+        ],
+        [
+          "program na fakturáciu zadarmo",
+          "online"
+        ],
+        [
+          "program na vystavení faktur zdarma",
+          "vystaveni"
+        ],
+        [
+          "ako fakturovat zivnostnik",
+          "vystaveni"
+        ],
+        [
+          "faktura online bez registracie",
+          "online"
+        ],
+        [
+          "format faktury",
+          "vzory"
+        ],
+        [
+          "formular faktury",
+          "vzory"
+        ],
+        [
+          "program na vystavenie faktury",
+          "vystaveni"
+        ],
+        [
+          "program na vytvaranie faktur",
+          "vystaveni"
+        ],
+        [
+          "prototyp faktury",
+          "online"
+        ],
+        [
+          "tvorba faktury online",
+          "vystaveni"
+        ],
+        [
+          "faktura formular",
+          "vzory"
+        ],
+        [
+          "online fakturácia",
+          "online"
+        ],
+        [
+          "vzor faktury bez dph",
+          "vzory"
+        ],
+        [
+          "faktura 2026",
+          "online"
+        ],
+        [
+          "zálohová a vyúčtovacia faktúra",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra daňový doklad",
+          "vzory"
+        ],
+        [
+          "faktúra šablóna",
+          "vzory"
+        ],
+        [
+          "faktúra živnostníka vzor",
+          "vzory"
+        ],
+        [
+          "vzor faktúry pre živnostníkov",
+          "vzory"
+        ],
+        [
+          "vzory faktúr pre živnostníkov",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra a dph",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra dph",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra neplatca dph",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra s dph",
+          "vzory"
+        ],
+        [
+          "zálohová faktúra vzor na stiahnutie",
+          "vzory"
+        ],
+        [
+          "ako vystaviť faktúru",
+          "vystaveni"
+        ],
+        [
+          "elektronická faktúra",
+          "vzory"
+        ],
+        [
+          "elektronická faktúra vzor",
+          "vzory"
+        ],
+        [
+          "fakturačný program zdarma",
+          "online"
+        ],
+        [
+          "faktúra online tlačivo",
+          "vzory"
+        ],
+        [
+          "faktúra tlačivo pdf",
+          "vzory"
+        ],
+        [
+          "faktúra tlačivo word",
+          "vzory"
+        ],
+        [
+          "faktúra tlačivo zadarmo",
+          "vzory"
+        ],
+        [
+          "preddavková faktúra a dph",
+          "vzory"
+        ],
+        [
+          "preddavková faktúra vzor",
+          "vzory"
+        ],
+        [
+          "tlačivo faktúra na stiahnutie zadarmo",
+          "vzory"
+        ],
+        [
+          "vrátenie faktúry vzor",
+          "vzory"
+        ],
+        [
+          "vystavenie faktúry do 15 dní",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktúry do zahraničia",
+          "vzory"
+        ],
+        [
+          "vystavenie faktúry nepodnikateľom",
+          "vystaveni"
+        ],
+        [
+          "vystavenie zálohovej faktúry",
+          "vzory"
+        ],
+        [
+          "vzor zálohovej faktúry",
+          "vzory"
+        ],
+        [
+          "fakturácie",
+          "online"
+        ],
+        [
+          "faktúra k prijatej platbe vzor",
+          "vzory"
+        ],
+        [
+          "faktúra neplatca dph vzor",
+          "vzory"
+        ],
+        [
+          "faktúra online",
+          "online"
+        ],
+        [
+          "faktúra vzor",
+          "vzory"
+        ],
+        [
+          "faktúra vzor na stiahnutie",
+          "vzory"
+        ],
+        [
+          "faktúra vzor na stiahnutie zadarmo",
+          "vzory"
+        ],
+        [
+          "faktúra vzor neplatca dph",
+          "vzory"
+        ],
+        [
+          "faktúra vzor neplatca dph word",
+          "vzory"
+        ],
+        [
+          "faktúra vzor pdf",
+          "vzory"
+        ],
+        [
+          "faktúra vzor pre zivnostnikov",
+          "vzory"
+        ],
+        [
+          "faktúra vzor word",
+          "vzory"
+        ],
+        [
+          "faktúra vzor xls",
+          "vzory"
+        ],
+        [
+          "faktúra za ubytovanie vzor",
+          "vzory"
+        ],
+        [
+          "faktúra zadarmo",
+          "online"
+        ],
+        [
+          "faktúry",
+          "online"
+        ],
+        [
+          "faktúry online",
+          "online"
+        ],
+        [
+          "faktúry online zadarmo",
+          "online"
+        ],
+        [
+          "faktúry vzor na stiahnutie",
+          "vzory"
+        ],
+        [
+          "online faktúra",
+          "online"
+        ],
+        [
+          "online faktúry zadarmo",
+          "online"
+        ],
+        [
+          "proforma faktúra vzor",
+          "vzory"
+        ],
+        [
+          "program na faktúry zadarmo",
+          "online"
+        ],
+        [
+          "vystavenie faktúry",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktúry fyzickej osobe",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktúry online",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktúry online zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vystavenie faktúry pre neplatcu dph",
+          "vzory"
+        ],
+        [
+          "vystavenie faktúry vzor",
+          "vzory"
+        ],
+        [
+          "vytvorenie faktúry",
+          "vystaveni"
+        ],
+        [
+          "vytvorenie faktúry online",
+          "vystaveni"
+        ],
+        [
+          "vytvorenie faktúry zadarmo",
+          "vystaveni"
+        ],
+        [
+          "vzor faktúra na stiahnutie",
+          "vzory"
+        ],
+        [
+          "vzor faktúry",
+          "vzory"
+        ],
+        [
+          "vzor faktúry na stiahnutie zadarmo",
+          "vzory"
+        ],
+        [
+          "vzor faktúry neplatca dph",
+          "vzory"
+        ],
+        [
+          "vzor faktúry neplatca dph excel",
+          "vzory"
+        ],
+        [
+          "vzor faktúry neplatca dph na stiahnutie",
+          "vzory"
+        ],
+        [
+          "vzor faktúry pdf",
+          "vzory"
+        ],
+        [
+          "vzor faktúry platca dph",
+          "vzory"
+        ],
+        [
+          "vzor faktúry pre neplatcu dph",
+          "vzory"
+        ],
+        [
+          "vzor faktúry vo worde",
+          "vzory"
+        ],
+        [
+          "vzor faktúry word",
+          "vzory"
+        ],
+        [
+          "vzor faktúry za ubytovanie",
+          "vzory"
+        ],
+        [
+          "faktura danovy doklad vzor",
+          "vzory"
+        ],
+        [
+          "faktura ubytovanie vzor",
+          "vzory"
+        ],
+        [
+          "faktura za vykonanu pracu vzor",
+          "vzory"
+        ],
+        [
+          "isdoc",
+          "vzory"
+        ],
+        [
+          "isdoc format",
+          "vzory"
+        ],
+        [
+          "preddavkova faktura",
+          "vzory"
+        ],
+        [
+          "tlacivo faktura na stiahnutie zadarmo",
+          "vzory"
+        ],
+        [
+          "tlacivo faktura pre neplatcu dph",
+          "vzory"
+        ],
+        [
+          "vystavenie faktury fyzickou osobou",
+          "vystaveni"
+        ],
+        [
+          "vystavit fakturu vzor faktura zivnostnik",
+          "vzory"
+        ],
+        [
+          "vzor faktura neplatca dph",
+          "vzory"
+        ],
+        [
+          "vzor faktury excel zadarmo",
+          "vzory"
+        ],
+        [
+          "vzor faktury neplatca dph",
+          "vzory"
+        ],
+        [
+          "vzor faktury neplatca dph excel",
+          "vzory"
+        ],
+        [
+          "vzor faktury pre zivnostnikov",
+          "vzory"
+        ],
+        [
+          "vzor faktury szco",
+          "vzory"
+        ],
+        [
+          "vzor faktury zadarmo",
+          "vzory"
+        ],
+        [
+          "zalohova faktura bez dph",
+          "vzory"
+        ],
+        [
+          "zalohova faktura co to je",
+          "vzory"
+        ]
+      ],
+      "top10_candidates": [
+        [
+          "faktury online",
+          8564.6
+        ],
+        [
+          "faktura",
+          5987.6
+        ],
+        [
+          "faktura online",
+          4957.4
+        ],
+        [
+          "online faktury",
+          3079.6
+        ],
+        [
+          "faktúra",
+          1934.2
+        ],
+        [
+          "faktury",
+          1912.5
+        ],
+        [
+          "faktury zadarmo",
+          1685.1
+        ],
+        [
+          "online faktura",
+          1546.4
+        ],
+        [
+          "faktúra vzor",
+          1484.7
+        ],
+        [
+          "faktúra online",
+          1313.4
+        ],
+        [
+          "faktúry online",
+          1204.0
+        ],
+        [
+          "faktúry",
+          1051.1
+        ],
+        [
+          "vystavenie faktúry",
+          971.6
+        ],
+        [
+          "faktura online zadarmo",
+          849.0
+        ],
+        [
+          "ako vystaviť faktúru",
+          835.6
+        ],
+        [
+          "faktura online zdarma",
+          827.0
+        ],
+        [
+          "urobit fakturu",
+          814.8
+        ],
+        [
+          "faktury online zadarmo",
+          737.7
+        ],
+        [
+          "faktura vzor",
+          624.0
+        ],
+        [
+          "program na faktury",
+          591.3
+        ],
+        [
+          "faktúry zadarmo",
+          558.8
+        ],
+        [
+          "vytvorenie faktury",
+          532.0
+        ],
+        [
+          "online faktura zdarma",
+          501.8
+        ],
+        [
+          "s faktura",
+          483.0
+        ],
+        [
+          "online faktury zadarmo",
+          477.8
+        ],
+        [
+          "elektronická faktúra",
+          472.7
+        ],
+        [
+          "faktura zadarmo",
+          467.2
+        ],
+        [
+          "vystaviť faktúru",
+          446.1
+        ],
+        [
+          "online fakturácia zadarmo",
+          427.0
+        ],
+        [
+          "faktura zivnostnik",
+          416.2
+        ],
+        [
+          "fakturácia zadarmo",
+          411.8
+        ],
+        [
+          "vystavenie faktúry online",
+          401.0
+        ],
+        [
+          "vzory faktúr",
+          393.0
+        ],
+        [
+          "online fakturacia",
+          392.1
+        ],
+        [
+          "vzor faktúry",
+          368.8
+        ],
+        [
+          "online faktura zadarmo",
+          368.0
+        ],
+        [
+          "faktúry na stiahnutie",
+          360.7
+        ],
+        [
+          "vystavenie faktury",
+          340.8
+        ],
+        [
+          "fakturacia",
+          337.8
+        ],
+        [
+          "fakturacia zadarmo",
+          334.8
+        ]
+      ]
+    }
+  }
+}
